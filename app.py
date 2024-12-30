@@ -123,7 +123,7 @@ def classify_document(text):
 
 
 
-st.title('AppianDOC Intelligence')
+st.title('Instant Automation')
 st.write('Upload your documents and organize automatically')
 
 
